@@ -1,0 +1,26 @@
+# ninja log v6
+1	111	1744173107727646698	build.ninja	41e0e2c44f30e814
+1	635	1744173013518221577	CMakeFiles/PR3_4_it.dir/functions/functions.cpp.o	e2292827a2e64b
+635	764	1744173014153027062	PR3_4_it	eb876804ffa57533
+0	633	1744173013517911969	CMakeFiles/PR3_4_it.dir/main.cpp.o	f89a2772585b8bdf
+21	705	1744173213749770632	CMakeFiles/PR3_4_it_tests.dir/functions/functions.cpp.o	63cca56377543ada
+19	900	1744173213747735202	lib/googletest/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o	8c2cfa83f9de9b12
+22	954	1744173213750427888	lib/googletest/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.o	131a87796bcd0fe4
+19	1309	1744173213747560503	lib/googletest/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.o	a1675f78f1c018e1
+17	1876	1744173213746033295	lib/googletest/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o	a0aad1d5b5bb7bbf
+7	624	1744173453686801344	CMakeFiles/PR3_4_it.dir/main.cpp.o	f89a2772585b8bdf
+8	625	1744173453687869555	CMakeFiles/PR3_4_it.dir/functions/functions.cpp.o	e2292827a2e64b
+625	781	1744173454304055217	PR3_4_it	eb876804ffa57533
+11	81	1744173469435873096	lib/libgtest.a	b51b69e6de22023b
+82	109	1744173469506011854	lib/libgtest_main.a	ddd85a377c936fa9
+81	114	1744173469505793460	lib/libgmock.a	c8c98fe986cb389b
+115	135	1744173469538847719	lib/libgmock_main.a	c7b38932d055d06e
+13	555	1744173469437239243	CMakeFiles/PR3_4_it_tests.dir/functions/functions.cpp.o	63cca56377543ada
+12	696	1744173469436621600	CMakeFiles/PR3_4_it_tests.dir/tests/tests.cpp.o	e0288cde7873747f
+697	1043	1744173470465950031	PR3_4_it_tests	8f8dab4022e614df
+697	1043	1744173470465950031	PR3_4_it_tests[1]_tests.cmake	8f8dab4022e614df
+697	1043	1744173470465950031	/Users/yura_kulakovskyi/Documents/C++/TeamWork/PR3/PR3_4_it/cmake-build-debug/PR3_4_it_tests[1]_tests.cmake	8f8dab4022e614df
+7	658	1744173491944369254	CMakeFiles/PR3_4_it_tests.dir/tests/tests.cpp.o	e0288cde7873747f
+659	959	1744173492895502268	PR3_4_it_tests	8f8dab4022e614df
+659	959	1744173492895502268	PR3_4_it_tests[1]_tests.cmake	8f8dab4022e614df
+659	959	1744173492895502268	/Users/yura_kulakovskyi/Documents/C++/TeamWork/PR3/PR3_4_it/cmake-build-debug/PR3_4_it_tests[1]_tests.cmake	8f8dab4022e614df
